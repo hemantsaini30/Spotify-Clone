@@ -24,12 +24,13 @@ A static, front-end clone of Spotify built purely with **HTML5** and **CSS3**, f
 ---
 
 ## 📁 Project Structure
+
 ```
 Spotify-Clone/
-├── index.html  # Main HTML markup
-├── style.css   # Styling and layout
-└── README.md   # This documentation
-
+├── index.html     # Main HTML markup
+├── style.css      # Styling and layout
+├── README.md      # This documentation
+└── assets/        # Images, icons, and other static assets
 ```
 
 ### 🚀 Getting Started
